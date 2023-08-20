@@ -1,4 +1,5 @@
 git remote
 new dummy line 
 one more dummy change 
+one more new change just done 
 
